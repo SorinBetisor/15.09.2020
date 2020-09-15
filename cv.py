@@ -1,0 +1,1 @@
+print ("Nume: Betisor Sorin","Data si locul nasterii: 07.10.2004 Balti,Republica Moldova","E-mail: inainte2@gmail.com","Telefon: 078517343","Adresa: Nicolae Iorga 20","Nationalitate: Moldovean","Studii : I.P.L.T Mihai Eminescu (2011- prezent)","Limbi straine cunoscute : Rusa,Engleza,Chineza,Germana","Hobby: programarea,cantatul la chitara,sportul.",sep='\n')
